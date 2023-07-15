@@ -48,7 +48,7 @@ httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，�
 
 httpwaf单机版永远免费，但开放源码、分布式集中管控、技术支持、功能增加等要收费。
 攻击态势大屏 [http://59.110.1.135/atkmap.html](http://59.110.1.135/atkmap.html)
-集中管控大屏 [http://59.110.1.135/center.html/](http://59.110.1.135/center.html)
+集中管控大屏 [http://59.110.1.135/center.html](http://59.110.1.135/center.html)
 
 #### 八、源码部署请加微信号httpwaf
 
