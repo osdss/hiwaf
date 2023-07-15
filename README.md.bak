@@ -31,7 +31,7 @@ httpwaf是一款永久免费的web应用防火墙，专注未知攻击对抗，�
     2 、 chmod +x ./himonitor
     3 、 ./himonitor
 
-首次安装下载大约需要半分钟，出现System is running.....代表已经安装成功，可以WEB管理口9999（防火墙允许）登录进去。
+首次运行下载大约需要半分钟，出现System is running.....代表已经安装成功，可以WEB管理口9999（防火墙允许）登录进去。
 
 #### 五、运行停止卸载
 启动运行:  ./himonitor         后台模式运行:   ./himonitor daemon
